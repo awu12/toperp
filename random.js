@@ -19,13 +19,24 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
-var x=Math.floor((Math.random()*5)+ 1);
+var x=Math.floor((Math.random()*16)+ 1);
 var xxx=null;
-if(x=="1"){xxx="/2018/01/five-erp-software-trends-to-watch-in.html"}
-if(x=="2"){xxx="/2018/01/how-erp-software-may-be-affected-by-end.html"}
-if(x=="3"){xxx="/2018/01/tips-to-choose-best-erp-system.html"}
-if(x=="4"){xxx="/2018/01/five-common-gaps-to-watch-for-in-your.html"}
-if(x=="5"){xxx="/2018/01/putting-e-enterprise-back-into-erp.html"}a_to_ve[i].href="http://www.top-erp-software.win"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="/2019/04/what-is-erp-system-software-in-business.html"}
+if(x=="2"){xxx="/2019/03/what-to-do-to-get-best-erp-system-for.html"}
+if(x=="3"){xxx="/2019/03/the-best-erp-software-for-small-business.html"}
+if(x=="4"){xxx="/2019/03/how-to-choose-best-erp-for-small.html"}
+if(x=="5"){xxx="/2019/03/erp-software-for-business.html"}
+if(x=="6"){xxx="/2019/03/2019/03/top-erp-for-small-business.html"}
+if(x=="7"){xxx="/2019/03/choosing-best-erp-software-for-smes.html"}
+if(x=="8"){xxx="/2019/03/erp-software-for-large-companies.html"}
+if(x=="9"){xxx="/2019/03/best-erp-systems-for-midsize-companies.html"}
+if(x=="10"){xxx="/2019/03/selecting-best-erp-software-for-your.html"}
+if(x=="11"){xxx="/2019/02/the-benefits-of-erp-for-small-business.html"}
+if(x=="12"){xxx="/2019/01/the-top-3-erp-vendors.html"}
+if(x=="13"){xxx="/2019/01/the-choices-of-best-erp-system-for.html"}
+if(x=="14"){xxx="/2019/01/the-best-erp-system-software-free.html"}
+if(x=="15"){xxx="/2019/01/finding-best-erp-software-companies-in.html"}
+if(x=="16"){xxx="/2019/01/the-top-list-of-erp-software-packages.html"}a_to_ve[i].href="https://www.top-erp-software.info"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
